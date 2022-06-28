@@ -31,7 +31,6 @@ body{
     padding: 16px;
     margin-top: -22px;
     color: white;
-    /* font-weight: bold; */
     font-size: 60px;
     transition: 0.6s ease;
     border-radius: 0 3px 3px 0;
@@ -45,11 +44,6 @@ body{
     border-radius: 3px 0 0 3px;
 }
   
-
-  /* .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-  }
-   */
  
 .text {
     color: #f2f2f2;
@@ -82,10 +76,7 @@ body{
     transition: background-color 0.6s ease;
 }
   
-  /* .active, .dot:hover {
-    background-color: #717171;
-  } */
-  
+
   
 .fade {
     animation-name: fade;
